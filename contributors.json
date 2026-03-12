@@ -25,9 +25,15 @@
       "role": "Marketing",
       "avatar": "https://avatars.githubusercontent.com/u/243556446?v=4",
       "github": "https://github.com/Katariya77",
-      "instagram": "https://www.instagram.com/k2ak.x",
+      "twitter": "https://x.com/krishnakatariya5",
       "linkedin": "https://www.linkedin.com/in/krishna-katariya-3502a2216",
-      "contributions": "Marketing"
+      "contributions": "Marketing",
+      "socials": [
+        {
+          "platform": "instagram",
+          "url": "https://www.instagram.com/k2ak.x"
+        }
+      ]
     },
     {
       "name": "Kousik Chowdhury",
